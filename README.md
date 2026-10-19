@@ -1,0 +1,1 @@
+# plataforma-qwen-gradientes-trujillo-app-test
